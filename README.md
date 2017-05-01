@@ -1,8 +1,6 @@
-# Maupassant with some tweaks
+# [Maupassant](https://github.com/tufu9441/maupassant-hexo) with some tweaks
 
-[Preview](https://icyfish.github.io)
-
-[Original Theme](https://github.com/tufu9441/maupassant-hexo)
+[Demo](https://icyfish.me)
 
 ### Tweaks
 
